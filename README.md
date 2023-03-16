@@ -7,7 +7,7 @@
 
 - see my latest project [PizzaHut](https://pizza-hut-amirhossein-azh.netlify.app/)
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **vue js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmirHossein812002](https://github.com/AmirHossein812002)
 
