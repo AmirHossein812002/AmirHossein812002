@@ -7,7 +7,7 @@
 
 - see my latest project [PizzaHut](https://pizza-hut-amirhossein-azh.netlify.app/)
 
-- 🌱 I’m currently learning **vue js**
+- 🌱 I’m currently working on **regular expression to finite automata project** written in vue and js!
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmirHossein812002](https://github.com/AmirHossein812002)
 
